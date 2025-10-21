@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [alikhreis.ca](alikhreis.ca)
+- 👨‍💻 All of my projects are available at [alikhreis.ca](www.alikhreis.ca)
 
 - 📫 How to reach me **alikhreis12@gmail.com**
 
