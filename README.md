@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Software Engineer - Working towards a Master of Engineering in Electrical and Computer Engineering, specializing in Applied Artificial Intelligence. Taking advanced courses in Applied Machine Learning and Machine Vision.</h3>
-
-- 🌱 I’m currently learning **Machine Learning**
+<h3 align="center">Software Engineer - Working towards a Master of Engineering in Electrical and Computer Engineering, specializing in Applied AI/ML. </h3>
 
 - 👨‍💻 All of my projects are available at https://www.alikhreis.ca/
-
-- 📫 How to reach me **alikhreis12@gmail.com**
 
 <p align="left">
 </p>
