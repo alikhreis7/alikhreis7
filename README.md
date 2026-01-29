@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/alikhreis](www.linkedin.com/in/alikhreis)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
