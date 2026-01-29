@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Khreis</h1>
 <h3 align="center">Software Engineer - Working towards a Master of Engineering in Electrical and Computer Engineering, specializing in Applied AI/ML.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhreis7" alt="alikhreis7" /></a> </p>
 
 - 🔭 I’m currently working on [Code Review Agents](https://github.com/alikhreis7/code-review-agent)
 
