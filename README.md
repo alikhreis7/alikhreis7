@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akhre083@uottawa.ca**
 
-- 📄 Know about my experiences [www.linkedin.com/in/alikhreis](www.linkedin.com/in/alikhreis)
+- 📄 Know about my experiences https://www.linkedin.com/in/alikhreis/
 
 <p align="left">
 </p>
