@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Khreis</h1>
-<h3 align="center">Software Engineer '25 - Working towards a Master of Engineering in Electrical and Computer Engineering, specializing in Applied AI/ML.</h3>
+<h3 align="center">Software Engineer '25 - Working towards a Master of Engineering in Electrical and Computer Engineering, specializing in Applied AI/ML at the University of Ottawa.</h3>
 
 
 - 🔭 I’m currently working on [Code Review Agents](https://github.com/alikhreis7/code-review-agent)
